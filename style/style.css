@@ -1,0 +1,84 @@
+body {
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 19px;
+
+}
+h1{
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 86px;
+    line-height: 120%;
+    }
+h2{
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 86px;
+        line-height: 115px;
+        color: #000000;
+    }
+
+.subtitle{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.subtitle-1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.quote{
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    color: #0D0D0D;
+    }
+.text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #0D0D0D;
+}
+.text-2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.transform{
+    text-transform: uppercase;
+}
+.transform-1{
+    text-transform: capitalize;
+}
+.text-3{
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 400;
+    ont-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+li{
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 41px;
+    color: #000000;
+}
