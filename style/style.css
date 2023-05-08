@@ -2,7 +2,6 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     line-height: 19px;
-
 }
 h1{
     font-family: "Playfair Display";
@@ -25,8 +24,9 @@ h2{
     font-weight: 500;
     font-size: 20px;
     line-height: 23px;
-    text-align: center;
     color: #000000;
+   
+
 }
 
 .subtitle-1{
@@ -81,4 +81,36 @@ li{
     font-size: 34px;
     line-height: 41px;
     color: #000000;
+}
+
+
+
+.wrapper{
+    max-width: 1065px;
+    background: #FFFFFF;
+    margin: 0 auto;
+}
+.container{
+    position: relative;
+    background: #FFFFFF;
+    height: 630px;
+    background: url(inside-weather-Uxqlfigh6oE-unsplash.jpg);
+    align-items: center;
+
+
+}
+
+.box_1{
+    position: absolute;
+    width: 56%;
+    height:57%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+   
+   
+
+
 }
