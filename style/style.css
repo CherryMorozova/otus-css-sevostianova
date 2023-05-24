@@ -6,6 +6,7 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     line-height: 19px;
+    font-style: normal;
     
 }
 h1{
@@ -34,8 +35,7 @@ h2{
 
 }
 
-.subtitle-1{
-    font-style: normal;
+.subtitle-xs{
     font-weight: 700;
     font-size: 20px;
     line-height: 23px;
@@ -49,20 +49,11 @@ h2{
     line-height: 31px;
     color: #0D0D0D;
     }
-.text{
-    font-style: normal;
+.desc-text{
     font-weight: 500;
     font-size: 18px;
     line-height: 21px;
     color: #0D0D0D;
-}
-.text-2{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 19px;
-    color: #000000;
 }
 .transform{
     text-transform: uppercase;
@@ -70,7 +61,7 @@ h2{
 .transform-1{
     text-transform: capitalize;
 }
-.text-3{
+.slogan{
     font-family: 'Bitter';
     font-style: normal;
     font-weight: 400;
@@ -79,7 +70,7 @@ h2{
     text-align: center;
     color: #000000;
 }
-li{
+.parties-list{
     font-family: 'Bitter';
     font-style: normal;
     font-weight: 400;
@@ -112,7 +103,7 @@ li{
 
 }
 
-.box_1{
+.title{
     position: absolute;
     width: 56%;
     height:57%;
