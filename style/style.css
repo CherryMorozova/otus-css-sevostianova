@@ -261,7 +261,8 @@ border-width: 1px;
     writing-mode: vertical-rl;
     transform: scale(-1);
     justify-content: space-between;
-    background-color: #FFF;
+    background: #FFF;
+
     
     /*background-color: brown;
     border-style: solid;
