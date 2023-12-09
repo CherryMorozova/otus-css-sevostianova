@@ -238,7 +238,7 @@ border-width: 1px;
     margin-top: 150px;
     height: 760px;
     /* padding-left: 139px;*/
-    border: 1px solid #000;
+    
     background: #FFF;
 
     /*
@@ -271,9 +271,7 @@ border-width: 1px;
 
 }
 .testimonials__img_cafe {
-    background: url(../images/cafe.png);
-    background-repeat: no-repeat;
-    justify-self:center;
+    object-fit: contain;
     width: 100%;
     height: 100%;
 
