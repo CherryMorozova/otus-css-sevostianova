@@ -273,6 +273,13 @@ border-width: 1px;
 */
 }
 
+
+@supports (display: flex) { 
+  .strong-points__list{
+    display: flex;
+  }
+}
+
 .strong-points__list_item{
     display: flex;
     min-width: 355px;
